@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://grey1227.github.io/nbdev_cards"
+  description: "following Jeremy here: https://www.youtube.com/watch?v=l7zS8Ld4_iA&t=17s"
+  repo-branch: master
+  repo-url: "https://github.com/grey1227/nbdev_cards"
